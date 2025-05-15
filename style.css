@@ -4,4 +4,5 @@
 header{
   position: fixed;
   justify-content: space-between;
+  display: flex;
 }
