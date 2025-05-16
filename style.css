@@ -10,7 +10,8 @@ header{
   width: 100%;
   padding-top: 0.6rem;
   margin-top: 20px;
-  align-items: center
+  align-items: center;
+  
 }
 body{
   overflow-x: hidden;
