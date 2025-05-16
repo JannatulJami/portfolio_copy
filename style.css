@@ -1,8 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins%3Awght%40100%3B200%3B300%3B400%3B500%3B600&display=swap%27%29%3B");
 *{
   background-color: #c8b8d6;
-  border: 50px solid #ffe2f5;
-  border-radius: 20%;
   font-family: 'Poppins' sans-serif;
 }
 header{
@@ -19,8 +17,8 @@ header{
 body{
   overflow-x: hidden;
   padding: 1rem;
-  top: 0;
-  left: 0;
+  border: 50px solid #ffe2f5;
+  border-radius: 20%;
   
 }
 
