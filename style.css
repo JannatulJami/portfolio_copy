@@ -19,7 +19,6 @@ body {
   overflow-x: hidden;
   padding: 1rem;
   border: 50px solid #ffe2f5;
-  border-radius: 20px; /* adjust as needed */
   box-sizing: border-box;
   margin: 0; /* remove default margin */
 }
