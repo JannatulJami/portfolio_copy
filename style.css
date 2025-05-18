@@ -2,6 +2,7 @@
 *{
   background-color: #c8b8d6;
   font-family: 'Poppins' sans-serif;
+  box-sizing: border-box;
 }
 header{
   position: fixed;
