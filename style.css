@@ -34,7 +34,6 @@ body {
   border-radius: 40px;        /* Rounded inner border */
   margin: 50px;               /* Creates the border space */
   padding: 1rem;
-  max-width: 1200px;
   min-height: 90vh;  /* Make sure it fills at least one screen height */
   box-shadow: 0 0 0 50px #ffe2f5; 
 }
