@@ -38,3 +38,7 @@ body {
   box-shadow: 0 0 0 50px #ffe2f5; 
 }
 
+.home{
+  display: flex;
+  position: relative; 
+}
