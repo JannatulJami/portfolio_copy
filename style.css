@@ -36,6 +36,6 @@ body {
   height: calc(100vh - 100px);
   width: calc(100vw - 100px);
   background-color: pink;
-  
+  overfolow-y: auto;
 }
 
