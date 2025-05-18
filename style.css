@@ -29,11 +29,12 @@ body {
   
 
 .content{
-  border: 50px solid #ffe2f5;
   box-sizing: border-box;
   padding: 1rem;
   margin: 0;
   box-radius: 40px;
+  height: calc(100vh - 100px);
+  width: calc(100vw - 100px);
   
 }
 
