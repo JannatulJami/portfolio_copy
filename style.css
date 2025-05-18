@@ -17,7 +17,7 @@ header{
   width: 100%;
   padding: 1 rem 9%;
   margin-top: 20px;
-  bottom-margin: 50px;  
+  bottom-padding: 1 rem 5%;  
   align-items: center;
   
 }
@@ -40,7 +40,6 @@ body {
 
 .home{
   display: flex;
-  position: relative; 
   align-items: center;
   justify-position: center;
 }
