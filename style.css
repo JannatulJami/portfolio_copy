@@ -41,4 +41,6 @@ body {
 .home{
   display: flex;
   position: relative; 
+  align-items: center;
+  justify-position: center;
 }
