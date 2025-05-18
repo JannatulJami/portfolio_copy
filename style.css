@@ -17,10 +17,6 @@ header{
 
 body {
   overflow-x: hidden;
-  padding: 1rem;
-  border: 50px solid #ffe2f5;
-  box-sizing: border-box;
-  margin: 0; /* remove default margin */
 }
   
 
@@ -30,5 +26,6 @@ body {
   padding: 1rem;
   margin: 0;
   box-radius: 20%;
+  
 }
 
