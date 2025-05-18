@@ -30,8 +30,7 @@ body {
 }
   
 
-.content{
-  background-color: #f4d3ff;  /* Your content background */
+.content{  
   border-radius: 40px;        /* Rounded inner border */
   margin: 50px;               /* Creates the border space */
   padding: 1rem;
