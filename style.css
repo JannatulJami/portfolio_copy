@@ -38,6 +38,10 @@ body {
   box-shadow: 0 0 0 50px #ffe2f5; 
 }
 
+.home-content{
+  font-weight: 200;
+  font-size: 1 rem;
+}
 .home{
   display: flex;
   align-items: center;
