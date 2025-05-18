@@ -2,7 +2,7 @@
 *{
   margin: 0;
   padding: 0;
-  background-color: #c8b8d6;
+  background-color: #ffd2e3;
   font-family: 'Poppins' sans-serif;
   box-sizing: border-box;
 }
@@ -30,7 +30,7 @@ body {
   
 
 .content{
-  background-color: #c8b8d6;  /* Your content background */
+  background-color: #f4d3ff;  /* Your content background */
   border-radius: 40px;        /* Rounded inner border */
   margin: 50px;               /* Creates the border space */
   padding: 1rem;
