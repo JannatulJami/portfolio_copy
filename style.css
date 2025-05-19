@@ -41,8 +41,9 @@ body {
 
 .home-content{
   font-weight: 200;
-  font-size: 1 rem;
+  font-size: 3 rem;
   align-items: center;
+  font-family: 'Poppins', sans-serif;
 }
 .home{
   display: flex;
