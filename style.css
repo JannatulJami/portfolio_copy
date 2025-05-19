@@ -33,7 +33,7 @@ body {
 
 .content{  
   border-radius: 40px;        /* Rounded inner border */
-  margin: 50px;               /* Creates the border space */
+  margin: 80px;               /* Creates the border space */
   padding: 1rem;
   min-height: 90vh;  /* Make sure it fills at least one screen height */
   box-shadow: 0 0 0 50px #ffe2f5; 
@@ -41,7 +41,7 @@ body {
 
 .home-content{
   font-weight: 200;
-  font-size: 3 rem;
+  font-size: 3rem;
   align-items: center;
   font-family: 'Poppins', sans-serif;
 }
@@ -49,6 +49,8 @@ body {
   display: flex;
   align-items: center;
   justify-position: center;
+  gap: 8rem;
+  color: whitesmoke;
 }
 
-.class 
+
