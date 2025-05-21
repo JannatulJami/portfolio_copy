@@ -59,7 +59,7 @@ body {
 }
 .services {
   padding: 60px 20px;
-  background-color: #000;
+  background: transparent;
 }
 
 .grid {
@@ -71,7 +71,7 @@ body {
 }
 
 .card {
-  background-color: #111;
+  background-color: #fff2f2;
   border-radius: 12px;
   padding: 20px;
   text-align: center;
@@ -102,7 +102,7 @@ body {
 
 .card p {
   font-size: 14px;
-  color: #ccc;
+  color: whitesmoke;
 }
 
 .card.highlight p {
