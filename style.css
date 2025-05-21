@@ -20,7 +20,8 @@ header{
   margin-top: 20px;
   bottom-padding: 1 rem 5%;  
   align-items: center;
-  font-family: 'Poppins' sans-serif;
+  font-family: 'Poppins', sans-serif;
+  color: whitesmoke;
 }
 
 body {
