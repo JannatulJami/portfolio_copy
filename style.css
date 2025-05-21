@@ -57,13 +57,24 @@ body {
   width: 110%;
   border-radius: 20%;
 }
+.services {
+  padding: 60px 20px;
+  background-color: #000;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
 .card {
   background-color: #111;
   border-radius: 12px;
   padding: 20px;
   text-align: center;
-  width: 250px;
   transition: all 0.3s ease-in-out;
 }
 
