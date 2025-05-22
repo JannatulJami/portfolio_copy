@@ -79,6 +79,10 @@ body {
   text-align: center;
   transition: all 0.3s ease-in-out;
 }
+.card:hover{
+  transform: scale(1.1);
+
+}
 
 .card.highlight {
   background-color: #d8a6e3;
